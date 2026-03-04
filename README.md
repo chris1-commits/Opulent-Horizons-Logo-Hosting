@@ -98,6 +98,16 @@ For a complete list of all hosted images, see [IMAGE_CATALOG.md](IMAGE_CATALOG.m
 
 Each image category folder contains its own README with specific guidelines and usage examples.
 
+## 🚢 Active Projects
+
+### HTML Documentation Website Deployment
+Currently working on converting the HTML documentation page into a production website with password protection.
+
+**Resources:**
+- [Sub-Issue: HTML to Production Website](SUB-ISSUE-HTML-TO-PRODUCTION.md) - Detailed implementation guide
+- [Quick Start Guide](QUICK-START-SUB-ISSUE.md) - How to use the sub-issue documentation
+- [GitHub Issue #3](https://github.com/chris1-commits/Opulent-Horizons-Logo-Hosting/issues/3) - Parent issue
+
 ## 🤝 Contributing
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on adding and managing images in this repository.
